@@ -12,3 +12,5 @@ Based on the business logic, both ways have pros and cons. The biggest question 
 Regardless of the selected method for a project, structural writing satisfies the construction. Also, the format provides a fail-safe mechanic that can be very powerful in writing.
 
 As such structural writing steps on the norm of expanding current knowledge as a technique for writing, data implementing a strategy to the collection, and shortening the time for building a project.
+
+[![Alt text for your video](https://gyazo.com/7461f3d4cc272049f2624fa35f2d3641)](https://youtu.be/gIQclTHRqBg "Put hover text here!")
