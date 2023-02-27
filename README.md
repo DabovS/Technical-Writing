@@ -13,4 +13,5 @@ Regardless of the selected method for a project, structural writing satisfies th
 
 As such structural writing steps on the norm of expanding current knowledge as a technique for writing, data implementing a strategy to the collection, and shortening the time for building a project.
 
-[![6](https://user-images.githubusercontent.com/124214430/221617077-ec4239a0-d1e0-4383-b36f-b12bff1e0715.png)](https://youtu.be/gIQclTHRqBg "Put hover text here!")
+
+[![7](https://user-images.githubusercontent.com/124214430/221617844-e1314000-44c3-4f18-b512-8a7b71e377d1.png)](https://youtu.be/gIQclTHRqBg "Put hover text here!")
